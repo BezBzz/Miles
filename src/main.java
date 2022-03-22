@@ -6,7 +6,5 @@ public class main {
         // логика
         System.out.println("Сумма бонуса составит: ");
         System.out.println(price / miles);
-
-
     }
 }
